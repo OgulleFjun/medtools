@@ -1,0 +1,7 @@
+# PostgreSQL
+# ------------------------------------------------------------------------------
+POSTGRES_HOST=postgres
+POSTGRES_PORT=5432
+POSTGRES_DB=medtools
+POSTGRES_USER=DyeKMmisakqtflBMGmwRfOEbcypOBTOP
+POSTGRES_PASSWORD=pkWaO3apZ7eY2iGhpoyxsBjK2Pn27GtYp4zrsoAzaXUXgKLlXhuYQ9FYesBt7QPC
